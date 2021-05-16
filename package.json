@@ -1,0 +1,9 @@
+{
+  "name": "com.tanatb.audior",
+  "version": "0.0.1",
+  "displayName": "Audior",
+  "type": "tool",
+  "hideInEditor": false,
+  "dependencies": {},
+  "description": "It creates audio pools and you can play music."
+}
